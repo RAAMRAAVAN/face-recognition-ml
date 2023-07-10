@@ -77,7 +77,7 @@ pyrsistent==0.19.3
 python-dateutil==2.8.2
 pytz==2022.7
 PyWavelets
-pywin32==305
+pywin32
 pyzmq==25.0.0
 requests==2.28.2
 scikit-image==0.21.0
