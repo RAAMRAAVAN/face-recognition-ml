@@ -80,7 +80,7 @@ PyWavelets
 #pywin32
 pyzmq==25.0.0
 requests==2.28.2
-scikit-image==0.21.0
+scikit-image
 scikit-learn==1.2.0
 scipy==1.10.0
 seaborn==0.12.2
