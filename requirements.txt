@@ -91,7 +91,7 @@ sqlparse==0.4.3
 stack-data==0.6.2
 sympy
 threadpoolctl==3.1.0
-tifffile==2023.4.12
+tifffile
 tinycss2==1.2.1
 tomli==2.0.1
 torch==1.8.1
