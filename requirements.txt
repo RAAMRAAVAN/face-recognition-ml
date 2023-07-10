@@ -33,7 +33,7 @@ imageio==2.31.1
 import-ipynb==0.1.4
 importlib-metadata==6.0.0
 importlib-resources==5.10.2
-ipykernel==6.20.1
+ipykernel
 ipython==8.8.0
 jedi==0.18.2
 Jinja2==3.1.2
