@@ -1,4 +1,5 @@
 {
+    "verson":2,
     "builds": [
         {
             "src": "face_recognition_ml/wsgi.py",
